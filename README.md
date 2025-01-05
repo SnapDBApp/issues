@@ -1,3 +1,5 @@
+<img src="/.github/SnapDB-sm.png" width=100 />
+
 # SnapDB Public Issue Tracker
 ![GitHub issues](https://img.shields.io/github/issues/SnapDBApp/issues?label=total%20requests&color=%23FFD458)
 ![Platform](https://img.shields.io/badge/platform-macOS-blue?color=%23FFD458)
